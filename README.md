@@ -1,3 +1,46 @@
+# About Me
+
+I am an assistant professor in Economics at Ningxia University in Yinchuan, China. I hold a double-PhD degree in Economics at City University of Hong Kong and Xi'an Jiaotong University.
+
+My main research interests are fiscal and monetary policies, international finance, international investment, and financial development.
+
+You can find my CV here.
+
+# Publications
+Fei GUO #, Isabel Kit-Ming YAN, Tao CHEN, Chun-Tien HU (2023). Fiscal multipliers, monetary efficacy, and hand-to-mouth households. Journal of International Money and Finance, 130, 102743 (forthcoming)[(download)](https://www.sciencedirect.com/science/article/pii/S0261560622001462).
+
+Fei GUO, Shi HE #, Zhitao LIN, Lu YUE (2022). Truths and Myths About the Effect of Financial Development on Economic Growth in China: A Meta-Analysis. Emerging Markets Finance and Trade, 1-18[(download)](https://www.tandfonline.com/doi/abs/10.1080/1540496X.2022.2136940).
+
+Maoxi Tian, Fei GUO #, Rong NIU (2022). Risk spillover analysis of China's financial sectors based on a new GARCH copula quantile regression model. The North American Journal of Economics and Finance, 63, 101817[(download)](https://www.sciencedirect.com/science/article/pii/S1062940822001528).
+
+Fei GUO #, Eric Evans Osei OPUKU, Kate HYNES, Isabel Kit-Ming YAN (2021). Fiscal Decentralization and Fiscal Multiplier in China, The B E Journal of Macroeconomics, 22(2), 729-763[(download)](https://www.degruyter.com/document/doi/10.1515/bejm-2020-0275/html).
+
+Fei GUO, Eric Evans Osei OPUKU, Isabel Kit-Ming YAN # (2021). The heterogeneous sectoral productivity impacts of FDI on real exchange rate, Journal of International Trade & Economic Development, 30(7), 1101-1121[(download)](https://www.tandfonline.com/doi/abs/10.1080/09638199.2021.1936135).
+
+Fei GUO, Shi HE # (2020). The finance-growth nexus in China: a meta-analysis. Applied Economics Letters, 27(13), 1071-1075[(download)](https://www.tandfonline.com/doi/abs/10.1080/13504851.2019.1659926).
+
+# Teaching
+Mid-Level Macroeconomics for Undergraduates
+
+International Finance for Undergraduates
+
+Development Economics for Postgraduates
+
+Fiscal Research for Postgraduates
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 A Github Pages template for academic websites. This was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 I think I've got things running smoothly and fixed some major bugs, but feel free to file issues or make pull requests if you want to improve the generic template / theme.
